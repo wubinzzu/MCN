@@ -1,0 +1,7 @@
+model_type : 'Sequential'
+MAX_ITEM_LIST_LENGTH : 50
+ITEM_LIST_FIELD : 'item_list_field'
+neg_samples : 1
+
+embedding_size : 64
+loss_type : 'BPR'
